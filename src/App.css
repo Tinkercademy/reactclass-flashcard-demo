@@ -42,3 +42,13 @@
 .card {
   color: black;
 }
+
+.previousbtn{
+  margin-left: 70px;
+  color: white;
+  font-size: 34px;
+  padding-left: 5px;
+  padding-right: 5px;
+  cursor: pointer;
+  border-radius: 50%;
+}
